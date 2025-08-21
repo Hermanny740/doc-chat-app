@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+pypdf2
+
+# LangChain Core + Integrationen
+langchain
+langchain-openai
+langchain-community
+
+# Vektor-Datenbanken
+faiss-cpu
+
+# OpenAI API + HuggingFace 
+openai
+huggingface-hub
