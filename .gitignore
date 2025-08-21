@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# dotenv
+.env
+
+# Logs
+*.log
+
+# FAISS index / lokale DB
+faiss_index/
